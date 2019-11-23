@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+.modal{
+    display: none; 
+    background-color: white;
+    position: fixed; 
+    z-index: 1; 
+    top:144px;
+    left: 30%;
+    margin: 0 auto;
+    padding: 84px 250px;
+    text-align: center;
+    color: #515b63;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
